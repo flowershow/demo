@@ -1,7 +1,13 @@
 ---
-date: 2025-02-24
-description: Explore Flowershow's features and configuration options in this demo site!
-image: hero.png
+hero:
+  title: Welcome to Flowershow Demo!
+  description: Explore Flowershow's features and configuration options in this demo site!
+  image: hero.png
+  cta:
+    - label: Explore syntax
+      href: "#-markdown-syntax"
+    - label: See demo blog
+      href: "/blog"
 ---
 
 # Welcome to Flowershow Demo! 
@@ -160,9 +166,9 @@ ___
 
 For detailed information about all customization options, visit [Flowershow Documentation](https://flowershow.app/docs).
 
-### Featured image
+### Hero
 
-The image at the top of this page is set using the `image` frontmatter property. This image is also used as the social preview image when sharing the page on social media platforms.
+The hero component at the top of this page is set using the `hero` frontmatter property. You can set it's title, description, image and two action buttons.
 
 ### Comments
 
