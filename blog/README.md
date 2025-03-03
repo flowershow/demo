@@ -4,6 +4,9 @@ description: This is a sample blog index page. It demonstrates how you can add a
 image: blog.png
 ---
 
+>[note!]
+>Featured image has been set using `image` frontmatter field.
+
 ## Blog Posts
 
 ### Post 1: [[Example Blog Post]]
