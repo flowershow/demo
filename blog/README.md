@@ -1,14 +1,7 @@
 ---
 title: Blog Demo
-hero:
-  title: Welcome to Demo Blog!
-  description: This is a sample blog index page. It demonstrates how you can add a hero to a page and create a simple list of blog posts.
-  image: blog.png
-  cta:
-    - label: Discover all
-      href: "#blog-posts"
-    - label: Subscribe
-      href: "#subscribe"
+description: This is a sample blog index page. It demonstrates how you can add a features image to a page and create a simple list of blog posts.
+image: blog.png
 ---
 
 ## Blog Posts
