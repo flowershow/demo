@@ -2,7 +2,7 @@
 title: Blog Demo
 hero:
   title: Welcome to Demo Blog!
-  description: Here you'll find a collection of posts about various topics. Enjoy exploring and let the inspiration flow.
+  description: This is a sample blog index page. It demonstrates how you can add a hero to a page and create a simple list of blog posts.
   image: blog.png
   cta:
     - label: Discover all
@@ -27,7 +27,3 @@ hero:
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
 
 ---
-
-## About This Blog
-
-This is a sample blog index page created in Markdown. It demonstrates how you can structure your blog posts and include snippets of content. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
