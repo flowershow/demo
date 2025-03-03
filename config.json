@@ -24,5 +24,14 @@
       }
     ]
   },
-  "showSidebar": true
+  "showSidebar": true,
+  "hero": {
+    "title": "Welcome to Flowershow Demo!",
+    "description": "Explore Flowershow's features and configuration options in this demo site!",
+    "image": "hero.png",
+    "cta": [
+      { "href": "/#-markdown-syntax", "label": "Syntax" },
+      { "href": "/blog", "label": "Blog" }
+    ]
+  }
 }
