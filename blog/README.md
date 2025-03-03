@@ -1,7 +1,12 @@
 ---
-title: Blog Demo
-description: Welcome to **Demo Blog**! Here you'll find a collection of posts about various topics. Enjoy exploring and let the inspiration flow.
-hero: true
+hero:
+  title: Blog Demo
+  description: Welcome to **Demo Blog**! Here you'll find a collection of posts about various topics. Enjoy exploring and let the inspiration flow.
+  cta:
+    - label: Discover all
+      href: #blog-posts
+    - label: Subscribe
+      href: #subscribe
 ---
 
 ## Blog Posts
