@@ -1,16 +1,14 @@
 ---
-hero:
-  title: Welcome to Flowershow Demo!
-  description: Explore Flowershow's features and configuration options in this demo site!
-  image: hero.png
-  cta:
-    - label: Explore syntax
-      href: "#-markdown-syntax"
-    - label: See demo blog
-      href: "/blog"
+title: Welcome to Flowershow Demo!
+description: Explore Flowershow's features and configuration options in this demo site!
+image: hero.png
+showHero: true
+cta:
+  - label: Explore syntax
+    href: "#-markdown-syntax"
+  - label: See demo blog
+    href: "/blog"
 ---
-
-# Welcome to Flowershow Demo! 
 
 This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app) - an elegant solution for publishing your Obsidian vaults and Markdown content directly from GitHub repositories.
 
