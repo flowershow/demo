@@ -1,4 +1,5 @@
 ---
+title: Blog
 hero:
   title: Blog Demo
   description: Welcome to **Demo Blog**! Here you'll find a collection of posts about various topics. Enjoy exploring and let the inspiration flow.
