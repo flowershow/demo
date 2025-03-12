@@ -38,8 +38,6 @@ This demo showcases various Flowershow features and configuration options:
 
 `Inline code`
 
-==Highlighted text==
-
 ### Lists
 
 Unordered list:
