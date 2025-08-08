@@ -6,7 +6,7 @@ showHero: true
 cta:
   - label: Explore syntax
     href: "#-markdown-syntax"
-  - label: See demo blog
+  - label: See demo blog →
     href: "/blog"
 ---
 
