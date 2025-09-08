@@ -3,7 +3,7 @@ description: Proin et orci a urna vestibulum porta. Aliquam diam lacus, dapibus 
 authors:
   - John Doe
   - Jane Doe
-image: blog.png
+image: /assets/blog.png
 date: 2025-03-21
 ---
 

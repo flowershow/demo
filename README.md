@@ -1,7 +1,7 @@
 ---
 title: Welcome to Flowershow Demo!
 description: Explore Flowershow's features and configuration options in this demo site!
-image: hero.png
+image: /assets/hero.png
 showHero: true
 cta:
   - label: Explore syntax
