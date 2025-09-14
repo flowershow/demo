@@ -28,9 +28,5 @@
     ]
   },
   "showSidebar": true,
-  "showEditLink": true,
-  "theme": {
-    "showVariantSwitch": true,
-    "variant": "light"
-  }
+  "showEditLink": true
 }
