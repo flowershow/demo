@@ -30,7 +30,7 @@
   "showSidebar": true,
   "showEditLink": true,
   "theme": {
-    "defaultMode": "light",
+    "defaultMode": "system",
     "showModeSwitch": true
   }
 }
