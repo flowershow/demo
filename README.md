@@ -10,7 +10,7 @@ cta:
     href: "/blog"
 ---
 
-This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app) - an elegant solution for publishing your Obsidian vaults and Markdown content directly from GitHub repositories.
+This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app). You can check all the underlying markdown and source code in that repo and see the resulting website powered by Flowershow live online at https://demo.flowershow.app/.
 
 ## 🎯 What's Inside?
 
@@ -22,7 +22,6 @@ This demo showcases various Flowershow features and configuration options:
   - Callouts and blockquotes
   - Obsidian wiki-links
   - And much more!
-
 - 🎨 **Customization Options**
   - Comments
   - Navigation setup
