@@ -1,7 +1,7 @@
 {
   "title": "Flowershow Demo",
-  "description": "Example site demonstrating features and capabilities of Flowershow",
-  "image": "/hero.png",
+  "description": "Flowershow demo site showcasing its features",
+  "image": "/assets/hiroshige.jpg",
   "nav": {
     "title": "Flowershow Demo",
     "links": [
