@@ -16,12 +16,12 @@
     ],
     "social": [
       {
-        "href": "#",
+        "href": "https://github.com/flowershow/demo",
         "name": "GitHub Profile",
         "label": "github"
       },
       {
-        "href": "#",
+        "href": "https://x.com/flowershowapp",
         "name": "Follow me on X",
         "label": "twitter"
       }
