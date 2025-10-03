@@ -1,8 +1,6 @@
 ---
 title: Lorem ipsum
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-authors:
-  - john
 image: "[[hiroshige-4.jpg]]"
 ---
 
