@@ -1,9 +1,9 @@
 ---
 description: Proin et orci a urna vestibulum porta. Aliquam diam lacus, dapibus ut tempus sed, venenatis vitae dui. Phasellus consequat nulla a tempor eleifend.
 authors:
-  - John Doe
-  - Jane Doe
-image: /assets/blog.png
+  - jane
+  - john
+image: "[[hiroshige-3.jpg]]"
 date: 2025-03-21
 ---
 

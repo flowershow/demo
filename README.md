@@ -17,27 +17,24 @@ This site is published from https://github.com/flowershow/demo using [Flowershow
 This demo showcases various Flowershow features and configuration options:
 
 - 📝 **Rich Markdown Support**
-  - Tables, code blocks, and diagrams
-  - Math equations and LaTeX
-  - Callouts and blockquotes
-  - Obsidian wiki-links
-  - And much more!
+    - Tables, code blocks, and diagrams
+    - Math equations and LaTeX
+    - Callouts and blockquotes
+    - Obsidian wiki-links
+    - …and more!
 - 🎨 **Customization Options**
-  - Comments
-  - Navigation setup
-  - Custom domain
+    - Comments
+    - Navigation setup
+    - Custom domains
 
 ## 📚 Markdown Syntax
 
 ### Text Formatting
 
-**Bold text** and *italic text* and ***bold italic text***
-
+**Bold text**, *italic text* and ***bold italic text***
 ~~Strikethrough text~~
-
 `Inline code`
-
-==Highlighted text==
+==Highlighted text== (🚧 [issue #894](https://github.com/flowershow/flowershow/issues/894))
 
 ### Lists
 
@@ -72,7 +69,6 @@ Inline code: `const greeting = "Hello, World!";`
 function calculateSum(a, b) {
   return a + b;
 }
-
 const result = calculateSum(5, 3);
 console.log(result); // Output: 8
 ```
@@ -81,7 +77,6 @@ console.log(result); // Output: 8
 # Python example
 def greet(name):
     return f"Hello, {name}!"
-
 print(greet("Flowershow"))
 ```
 
@@ -103,21 +98,59 @@ print(greet("Flowershow"))
 > > Nested quote
 > > > Deeper nested quote
 
-### Links and Images
+### Links & Embeds
 
-(`[Visit Flowershow Website](https://flowershow.app)`) [Visit Flowershow Website](https://flowershow.app)
+Markdown link:
+```md
+[Visit Flowershow](https://flowershow.app)
+```
+→ [Visit Flowershow](https://flowershow.app)
 
-(`![Lotus flower](./lotus.png)`) ![Lotus flower](./lotus.png)
+Image embed:
+```md
+![Hiroshige art](/assets/hiroshige-2.jpg)
+```
+→
+![Hiroshige art](/assets/hiroshige-2.jpg)
 
 ### Obsidian Wiki-links
 
-Flowershow supports Obsidian-style wiki-links. For example, this links to our example blog post: (`[[abc]]`) [[abc]]
+Flowershow supports **Obsidian-style wiki-links** too.
 
-You can also use the full path: (`[[blog/abc]]`) [[blog/abc]] 
+**Link by shortest-possible path:**
+```md
+[[Lorem ipsum]]
+```
+→ [[Lorem ipsum]]
 
-And use Obsidian-style image embedding: (`![[lotus.png]]`) ![[lotus.png]] 
+**Link by full path:**
+```md
+[[blog/Lorem ipsum]]
+```
+→ [[blog/Lorem ipsum]]
 
+**Use an alias:**
+```md
+[[Lorem ipsum|Alias]]
+```
+→ [[Lorem ipsum|Alias]]
+
+**Embed images with the same syntax:**
+```md
+![[hiroshige-2.jpg]]
+```
+→ 
+![[hiroshige-2.jpg]]
 ### Math Equations
+
+```
+Lift($$L$$) can be determined by Lift Coefficient ($$C_L$$) like the following
+equation.
+
+$$
+L = \frac{1}{2} \rho v^2 S C_L
+$$
+```
 
 Lift($$L$$) can be determined by Lift Coefficient ($$C_L$$) like the following
 equation.
@@ -126,7 +159,7 @@ $$
 L = \frac{1}{2} \rho v^2 S C_L
 $$
 
-### Diagrams
+### Mermaid Diagrams
 
 ```mermaid
 graph TD
@@ -137,7 +170,7 @@ graph TD
     D --> E
 ```
 
-### Callouts
+### Obsidian Callouts
 
 > [!NOTE]
 > This is a note callout
@@ -145,8 +178,8 @@ graph TD
 > [!WARNING]
 > This is a warning callout
 
-> [!TIP]
-> This is a tip callout
+> [!BUG]
+> This is a bug callout
 
 > [!IMPORTANT]
 > This is an important callout
@@ -157,20 +190,13 @@ Here's a sentence with a footnote[^1].
 
 [^1]: This is the footnote content.
 
-### Horizontal Rules
-
----
-***
-___
-
-
 ## ⚙️ Customization Options
 
 For detailed information about all customization options, visit [Flowershow Documentation](https://flowershow.app/docs).
 
 ### Hero
 
-The hero component at the top of this page is set using the `hero` frontmatter property. You can set it's title, description, image and two action buttons.
+The hero component at the top of this page is set using the `showHero` frontmatter property. It You can set it's title, description, image and call-to-action buttons.
 
 ### Comments
 
@@ -178,12 +204,11 @@ The comments section you can see at the bottom of this page has been enabled thr
 
 ### Navigation
 
-The site's navigation elements including the logo, title ("My Digital Garden"), links (About), and social media links (GitHub, Twitter) have been configured using the [`config.json`](https://github.com/flowershow/demo/blob/main/config.json) file. This configuration provides a clean way to customize your site's header without modifying the source code.
+The site's navigation elements including the logo, title, links, and social media buttons have been configured using the [`config.json`](https://github.com/flowershow/demo/blob/main/config.json) file.
 
 ### Custom Domain
 
 Looking at the URL of this site, you'll notice it's available at a custom domain instead of the default Flowershow Cloud URL pattern (`/@username/sitename`). This is another customization option available through the Flowershow Cloud dashboard, allowing you to use your own domain name for a more professional appearance.
-
 
 ## 🤝 Contributing
 
@@ -194,4 +219,4 @@ Have a suggestion? Feel free to:
 
 ---
 
-*Built with 💖 using [Flowershow](https://flowershow.app)*
+*Built using [Flowershow](https://flowershow.app)*

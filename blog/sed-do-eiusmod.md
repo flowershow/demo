@@ -1,7 +1,8 @@
 ---
 description: Etiam nec dui a lorem molestie efficitur et sit amet libero. Suspendisse sollicitudin justo pretium lobortis sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-authors: [John Doe]
-image: /assets/blog.png
+authors:
+  - John Doe
+image: "[[hiroshige-2.jpg]]"
 date: 2024-18-12
 ---
 

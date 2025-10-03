@@ -1,3 +1,3 @@
 # About
 
-This is example about page.
+This is an example about page.
