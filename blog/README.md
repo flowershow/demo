@@ -1,8 +1,6 @@
 ---
 title: ✍️ Blog
 description: This is a sample blog index page. It demonstrates how you can add a features image to a page and create a simple list of blog posts.
-authors:
-  - jane
 ---
 <List dir="/blog" slots={{ eyebrow: "date", headline: "title", summary: "description", media: "image",  footnote: "authors" }}/>
 
