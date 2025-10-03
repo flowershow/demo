@@ -1,14 +1,11 @@
 ---
 title: Global CO2 Emissions Analysis
+description: This analysis explores the trends in global CO2 emissions from 1751, examining the contributions from different fuel sources and other factors.
 authors:
   - jane
 date: 2023-11-30
 image: /assets/climate-change.jpeg
 ---
-
-## Introduction
-
-This analysis explores the trends in global CO2 emissions from 1751, examining the contributions from different fuel sources and other factors.
 
 ## Data Overview
 

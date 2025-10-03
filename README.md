@@ -1,13 +1,13 @@
 ---
 title: Welcome to Flowershow Demo!
 description: Explore Flowershow's features and configuration options in this demo site!
-image: /assets/hiroshige.jpg
+image: "[[hiroshige.jpg]]"
 showHero: true
 cta:
   - label: Explore syntax
     href: "#-markdown-syntax"
   - label: See demo blog →
-    href: "/blog"
+    href: /blog
 ---
 
 This site is published from https://github.com/flowershow/demo using [Flowershow](https://flowershow.app). You can check all the underlying markdown and source code in that repo and see the resulting website powered by Flowershow live online at https://demo.flowershow.app/.
@@ -194,17 +194,26 @@ Here's a sentence with a footnote[^1].
 
 For detailed information about all customization options, visit [Flowershow Documentation](https://flowershow.app/docs).
 
+### Navigation
+
+The site's navigation elements including the **logo**, **title**, **links**, and **social media buttons** have been configured using the [`config.json`](https://github.com/flowershow/demo/blob/main/config.json) file.
+
+In addition, you can enable a **full-text search field** directly from the Flowershow Cloud dashboard. When enabled, it appears in the navigation bar and lets visitors quickly find content across your site.
+
+### Dark/Light Theme Switch
+
+This site includes a theme toggle in the navigation bar, allowing visitors to switch between light and dark modes. The toggle can be enabled and customized through the [`config.json`](https://github.com/flowershow/demo/blob/main/config.json) file. You can set the default theme (light, dark, or system preference) and control whether the toggle appears in the navbar.
+
 ### Hero
 
 The hero component at the top of this page is set using the `showHero` frontmatter property. It You can set it's title, description, image and call-to-action buttons.
 
+### Edit This Page Link
+
+At the bottom of each page you may notice an **“Edit this page”** link. When enabled, it points directly to the corresponding Markdown file in your GitHub repository. This makes it simple for you—or your readers and collaborators—to suggest changes and improvements.
 ### Comments
 
 The comments section you can see at the bottom of this page has been enabled through the Flowershow Cloud dashboard. This feature allows your readers to engage with your content and provide feedback directly on your pages.
-
-### Navigation
-
-The site's navigation elements including the logo, title, links, and social media buttons have been configured using the [`config.json`](https://github.com/flowershow/demo/blob/main/config.json) file.
 
 ### Custom Domain
 
