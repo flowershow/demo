@@ -32,5 +32,6 @@
   "theme": {
     "defaultMode": "system",
     "showModeSwitch": true
-  }
+  },
+  "markdownRenderer": "auto"
 }
