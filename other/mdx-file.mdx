@@ -1,0 +1,33 @@
+---
+title: Example Post (MDX)
+---
+
+# Hello MDX
+
+This is an **MDX** file (`mdx-file.mdx`) where you can use Flowrshow components (e.g. `List`) or add your own JSX blocks.
+
+Here’s a paragraph with a **custom styled** span:
+
+```
+<span style={{ color: 'tomato', fontWeight: 'bold' }}>This text is red and bold.</span>
+```
+
+<span style={{ color: 'tomato', fontWeight: 'bold' }}>This text is red and bold.</span>
+
+You can also style your JSX blocks with Tailwind classes:
+
+```
+<span className="text-blue font-bold">This text is red and bold.</span>
+```
+
+<span className="text-blue font-bold">This text is red and bold.</span>
+
+🧠 Note that in MDX:
+- `style` values are JavaScript objects, not strings (use `{{ backgroundColor: 'red' }}`, not `"background-color: red"`).
+- HTML attributes must use camelCase:
+  - `className` instead of `class`
+  - `htmlFor` instead of `for`
+  - `tabIndex`, `readOnly`, `strokeWidth`, etc.
+
+> ![note]
+> If you want all your files (no matter the extension) to be parsed as plain MDX, you can add `markdownRenderer: "mdx"` to your `config.json`. Or use `markdownRenderer: "auto"` to parse `.md` files as Markdown and `.mdx` as MDX.
