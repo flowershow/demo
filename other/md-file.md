@@ -4,7 +4,7 @@ title: Example Post (MD)
 
 # Hello Markdown
 
-This is a **Markdown** file (`md-file.md`) where you can embed plain HTML.
+This is a [[md-file|Markdown file]] where you can embed plain HTML.
 
 Here’s a paragraph with a **custom styled** span:
 
