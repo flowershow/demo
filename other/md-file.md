@@ -28,5 +28,5 @@ You can also style your JSX blocks with Tailwind classes:
 - Attributes follow regular HTML conventions (class, for, background-color, etc.).
 - **You cannot use JSX blocks or Flowershow components**.
 
-> ![note]
+> [!note]
 > If you want all your files to be parsed as plain Markdown with HTML blocks (no matter the extension), you can add `markdownRenderer: "md"` to your `config.json`. Or use `markdownRenderer: "auto"` to parse `.md` files as Markdown and `.mdx` as MDX.
