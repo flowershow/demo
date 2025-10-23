@@ -33,5 +33,5 @@
     "defaultMode": "system",
     "showModeSwitch": true
   },
-  "markdownRenderer": "auto"
+  "markdownRenderer": "mdx"
 }
