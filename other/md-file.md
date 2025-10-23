@@ -2,7 +2,7 @@
 title: Example Post (MD)
 ---
 
-# Hello Markdown
+## Hello Markdown
 
 This is a Markdown file ([see source](https://github.com/flowershow/demo/blob/main/other/md-file.md)) where you can embed plain HTML.
 
