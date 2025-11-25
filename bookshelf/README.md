@@ -11,6 +11,16 @@ properties:
   note.author:
     displayName: writer
 views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - author
+      - year
+      - genre
+    image: note.image
+    cardSize: 190
+    imageAspectRatio: 1.6
   - type: table
     name: All books
     order:
@@ -54,16 +64,6 @@ views:
       - property: status
         direction: ASC
     rowHeight: medium
-  - type: cards
-    name: Cards
-    order:
-      - file.name
-      - author
-      - year
-      - genre
-    image: note.image
-    cardSize: 190
-    imageAspectRatio: 1.6
   - type: list
     name: List
     order:
