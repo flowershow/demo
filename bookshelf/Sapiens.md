@@ -5,7 +5,7 @@ year: 2011
 genre: Non-Fiction, History, Anthropology
 description: A sweeping narrative that explores the history of humanity from the emergence of Homo sapiens in Africa to the present, examining how biology and history have shaped our societies, economies, and beliefs.
 status: read
-image: [[sapiens.jpg]]
+image: "[[sapiens.jpg]]"
 owned: true
 rating: 4
 ---
