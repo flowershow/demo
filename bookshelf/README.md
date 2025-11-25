@@ -9,6 +9,7 @@ title: 📚 Bookshelf
 filters:
   and:
     - file.folder == "bookshelf"
+    - file.name != "README"
 properties:
   note.author:
     displayName: writer
@@ -73,4 +74,5 @@ views:
       - author
       - year
     indentProperties: false
+
 ```
