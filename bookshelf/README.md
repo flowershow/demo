@@ -1,13 +1,12 @@
 ---
 syntaxMode: mdx
+title: 📚 Bookshelf
 ---
-
-# Bookshelf
 
 ```base
 filters:
   and:
-    - file.folder == "books"
+    - file.folder == "bookshelf"
 properties:
   note.author:
     displayName: writer
