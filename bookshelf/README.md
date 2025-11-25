@@ -1,3 +1,7 @@
+---
+syntaxMode: mdx
+---
+
 # Bookshelf
 
 ```base
