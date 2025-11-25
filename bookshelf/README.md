@@ -2,6 +2,8 @@
 syntaxMode: mdx
 title: 📚 Bookshelf
 ---
+>[!note]
+>Click [here](https://github.com/flowershow/demo/blob/main/bookshelf/README.md) to see the source file of this page.
 
 ```base
 filters:
