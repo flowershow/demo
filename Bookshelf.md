@@ -8,8 +8,7 @@ title: 📚 Bookshelf
 ```base
 filters:
   and:
-    - file.folder == "bookshelf"
-    - file.name != "README"
+    - file.inFolder("books")
 properties:
   note.author:
     displayName: writer
