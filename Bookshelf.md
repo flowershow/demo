@@ -1,6 +1,7 @@
 ---
 syntaxMode: mdx
 title: 📚 Bookshelf
+description: This page showcases support for Obsidian Bases (still in early Alpha).
 ---
 >[!note]
 >Click [here](https://github.com/flowershow/demo/blob/main/Bookshelf.md) to see the source file of this page.
