@@ -5,7 +5,8 @@ description: This page showcases support for Obsidian Bases (still in early Alph
 ---
 
 >[!note]
->Click [here](https://github.com/flowershow/demo/blob/main/Bookshelf.md) to see the source file of this page.
+> 
+> ## Follow this link to the [source Flowershow markdown for this 👉](https://github.com/flowershow/demo/blob/main/Bookshelf.md?plain=1)
 
 ```base
 filters:
