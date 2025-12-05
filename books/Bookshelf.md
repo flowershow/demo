@@ -3,7 +3,7 @@ syntaxMode: mdx
 title: 📚 Bookshelf
 ---
 >[!note]
->Click [here](https://github.com/flowershow/demo/blob/main/Books/Bookshelf.md) to see the source file of this page.
+>Click [here](https://github.com/flowershow/demo/blob/main/books/Bookshelf.md) to see the source file of this page.
 
 ```base
 filters:
