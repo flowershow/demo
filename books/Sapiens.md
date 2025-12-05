@@ -8,6 +8,9 @@ status: read
 image: "[[sapiens.jpg]]"
 owned: true
 rating: 4
+pages: 512
+date_started: 2024-02-01
+date_finished: 2024-02-25
 ---
 
 # Sapiens: A Brief History of Humankind
