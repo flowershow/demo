@@ -8,6 +8,9 @@ rating: 5
 status: read
 image: "[[pride.webp]]"
 owned: false
+pages: 432
+date_started: 2023-11-08
+date_finished: 2023-12-01
 ---
 
 # Pride and Prejudice

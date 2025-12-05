@@ -8,6 +8,9 @@ rating: 5
 status: read
 image: "[[gatsby.avif]]"
 owned: true
+pages: 180
+date_started: 2023-05-01
+date_finished: 2023-05-12
 ---
 
 # The Great Gatsby

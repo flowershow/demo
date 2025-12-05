@@ -7,7 +7,7 @@ description: Set in the distant future, this epic follows young Paul Atreides as
 status: planned
 image: "[[dune.webp]]"
 owned: true
-rating: 5
+pages: 896
 ---
 
 # Dune
