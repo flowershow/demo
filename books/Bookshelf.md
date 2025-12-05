@@ -20,7 +20,7 @@ properties:
   note.genre:
     displayName: Genre
   formula.quick_read:
-    displayName: Genre
+    displayName: Quick read
 views:
   - type: cards
     name: Cards
