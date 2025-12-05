@@ -12,7 +12,11 @@ filters:
     - file.name != "Bookshelf"
 properties:
   note.author:
-    displayName: writer
+    displayName: Author
+  note.year:
+    displayName: Year
+  note.genre:
+    displayName: Genre
 views:
   - type: cards
     name: Cards
@@ -28,9 +32,9 @@ views:
     name: All books
     order:
       - file.name
+      - author
       - rating
       - status
-      - author
       - description
       - year
     sort:
@@ -52,9 +56,9 @@ views:
         - status != "read"
     order:
       - file.name
+      - author
       - rating
       - status
-      - author
       - description
       - year
     sort:
