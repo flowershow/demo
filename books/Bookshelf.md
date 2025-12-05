@@ -10,12 +10,16 @@ filters:
   and:
     - file.inFolder("books")
     - file.name != "Bookshelf"
+formulas:
+  quick_read: pages < 300
 properties:
   note.author:
     displayName: Author
   note.year:
     displayName: Year
   note.genre:
+    displayName: Genre
+  formula.quick_read:
     displayName: Genre
 views:
   - type: cards
@@ -25,6 +29,7 @@ views:
       - author
       - year
       - genre
+      - formula.quick_read
     image: note.image
     cardSize: 190
     imageAspectRatio: 1.6
