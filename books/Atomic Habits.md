@@ -7,7 +7,8 @@ description: A practical guide to building good habits and breaking bad ones thr
 status: reading
 image: "[[atomic.jpg]]"
 owned: false
-rating: 4
+pages: 320
+date_started: 2024-10-15
 ---
 
 # Atomic Habits
