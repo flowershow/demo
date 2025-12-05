@@ -8,6 +8,9 @@ rating: 5
 status: read
 image: "[[mockingbird.jpg]]"
 owned: true
+pages: 324
+date_started: 2023-08-05
+date_finished: 2023-08-22
 ---
 
 # To Kill a Mockingbird
