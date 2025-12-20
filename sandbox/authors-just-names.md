@@ -1,5 +1,5 @@
 ---
-title: Testing out Having Authors in a List with Just Names (No People entries)
+title: "Testing out Having Authors in a List with Just Names (No People entries)"
 authors:
   - Jane Doe
   - John Smith
