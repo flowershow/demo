@@ -18,10 +18,10 @@ Here’s a paragraph with a **custom styled** span:
 You can also style your JSX blocks with Tailwind classes:
 
 ```
-<span class="text-blue font-bold">This text is red and bold.</span>
+<span class="text-blue font-bold">This text is blue and bold.</span>
 ```
 
-<span class="text-blue font-bold">This text is red and bold.</span>
+<span class="text-blue font-bold">This text is blue and bold.</span>
 
 🧠 Notes for Markdown:
 - Inline HTML must use string style syntax (e.g. style="color: red;").
