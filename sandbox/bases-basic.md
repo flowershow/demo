@@ -2,6 +2,9 @@
 syntaxMode: mdx
 ---
 
+> [!important]
+> You must set `syntaxMode: mdx` in your frontmatter!
+
 # Really basic bases setup
 
 Like this ...
