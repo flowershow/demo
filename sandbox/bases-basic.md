@@ -21,3 +21,14 @@ views:
   - type: cards
     name: "My Bookshelf"
 ```
+
+
+## Just with table
+
+```base
+filters:
+  file.inFolder("/books")
+views:
+  - type: table
+    name: Table
+```
