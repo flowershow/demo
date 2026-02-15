@@ -1,3 +1,7 @@
+---
+syntaxMode: mdx
+---
+
 # Really basic bases setup
 
 Like this ...
