@@ -42,7 +42,7 @@ views:
 ```base
 filters:
   and:
-    - file.inFolder("books")
+    - file.inFolder("/books")
     - file.name != "Bookshelf"
 formulas:
   quick_read: pages < 300
@@ -117,4 +117,5 @@ views:
       - author
       - year
     indentProperties: false
+
 ```
