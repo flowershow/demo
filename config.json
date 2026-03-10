@@ -32,5 +32,6 @@
   "theme": {
     "defaultMode": "light",
     "showModeSwitch": true
-  }
+  },
+  "contentHide": ["/people"]
 }
