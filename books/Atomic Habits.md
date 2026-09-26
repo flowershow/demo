@@ -9,6 +9,10 @@ image: "[[atomic.jpg]]"
 owned: false
 pages: 320
 date_started: 2024-10-15
+tags:
+  - non-fiction/self-help
+  - psychology
+  - currently-reading
 ---
 
 # Atomic Habits
@@ -38,4 +42,4 @@ James Clear provides a comprehensive system for habit formation, emphasizing tha
 - Environment design
 
 ## Personal Notes
-The emphasis on systems over goals is transformative. The idea that "you do not rise to the level of your goals, you fall to the level of your systems" has changed how I approach personal development. The practical examples make it easy to implement immediately.
+The emphasis on systems over goals is transformative. The idea that "you do not rise to the level of your goals, you fall to the level of your systems" has changed how I approach personal development. The practical examples make it easy to implement immediately. #productivity #habits

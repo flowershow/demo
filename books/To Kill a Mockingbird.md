@@ -11,6 +11,10 @@ owned: true
 pages: 324
 date_started: 2023-08-05
 date_finished: 2023-08-22
+tags:
+  - fiction/southern-gothic
+  - classics
+  - coming-of-age
 ---
 
 # To Kill a Mockingbird
@@ -32,4 +36,4 @@ A powerful exploration of racial injustice, moral courage, and childhood innocen
 - Tom Robinson - The falsely accused man
 
 ## Personal Notes
-Atticus Finch's unwavering moral stance in the face of community pressure is inspiring. The novel's exploration of prejudice through a child's eyes makes it particularly powerful.
+Atticus Finch's unwavering moral stance in the face of community pressure is inspiring. The novel's exploration of prejudice through a child's eyes makes it particularly powerful. #social-justice #must-read

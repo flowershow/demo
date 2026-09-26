@@ -11,6 +11,9 @@ owned: false
 pages: 432
 date_started: 2023-11-08
 date_finished: 2023-12-01
+tags:
+  - fiction/romance
+  - classics
 ---
 
 # Pride and Prejudice
@@ -39,4 +42,4 @@ Austen's most beloved novel is a masterful exploration of love, class, and socia
 > "I declare after all there is no enjoyment like reading!"
 
 ## Personal Notes
-Elizabeth Bennet is one of literature's greatest heroines - intelligent, independent, and flawed. The social commentary is sharp and still relevant. Austen's wit and irony make every re-read enjoyable.
+Elizabeth Bennet is one of literature's greatest heroines - intelligent, independent, and flawed. The social commentary is sharp and still relevant. Austen's wit and irony make every re-read enjoyable. #comfort-read

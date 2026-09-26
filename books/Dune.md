@@ -8,6 +8,11 @@ status: planned
 image: "[[dune.webp]]"
 owned: true
 pages: 896
+tags:
+  - fiction/sci-fi
+  - epic
+  - favorites
+  - to-read
 ---
 
 # Dune
@@ -39,4 +44,4 @@ Herbert's masterpiece is a complex, multi-layered epic that combines political i
 - Chani - Paul's love interest
 
 ## Personal Notes
-The depth of world-building is extraordinary. Herbert's exploration of ecology, politics, and religion creates a rich, believable universe. The prescient visions and the burden of prophecy add philosophical depth. A true masterpiece of science fiction that transcends the genre.
+The depth of world-building is extraordinary. Herbert's exploration of ecology, politics, and religion creates a rich, believable universe. The prescient visions and the burden of prophecy add philosophical depth. A true masterpiece of science fiction that transcends the genre. #worldbuilding #must-read

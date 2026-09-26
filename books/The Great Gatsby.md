@@ -11,6 +11,9 @@ owned: true
 pages: 180
 date_started: 2023-05-01
 date_finished: 2023-05-12
+tags:
+  - fiction/literary
+  - classics
 ---
 
 # The Great Gatsby
@@ -31,4 +34,4 @@ Fitzgerald's masterpiece captures the decadence and disillusionment of the Roari
 - The Valley of Ashes - Moral and social decay
 
 ## Personal Notes
-The prose is absolutely beautiful. Fitzgerald's ability to capture both the glamour and the emptiness of the era is unmatched. Gatsby's tragic pursuit of an impossible dream is heartbreaking.
+The prose is absolutely beautiful. Fitzgerald's ability to capture both the glamour and the emptiness of the era is unmatched. Gatsby's tragic pursuit of an impossible dream is heartbreaking. #jazz-age #must-read

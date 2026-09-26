@@ -11,6 +11,10 @@ rating: 4
 pages: 512
 date_started: 2024-02-01
 date_finished: 2024-02-25
+tags:
+  - non-fiction/history
+  - anthropology
+  - favorites
 ---
 
 # Sapiens: A Brief History of Humankind
@@ -32,4 +36,4 @@ Harari presents a compelling narrative of human history, divided into four major
 - Scientific progress is driven by ideology and economics
 
 ## Personal Notes
-Harari's ability to synthesize vast amounts of information into a coherent narrative is impressive. His perspective on human progress is thought-provoking and often challenges conventional wisdom. The sections on the Agricultural Revolution and imagined orders were particularly eye-opening.
+Harari's ability to synthesize vast amounts of information into a coherent narrative is impressive. His perspective on human progress is thought-provoking and often challenges conventional wisdom. The sections on the Agricultural Revolution and imagined orders were particularly eye-opening. #big-ideas #must-read
